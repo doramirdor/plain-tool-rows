@@ -1,0 +1,7 @@
+{
+  "name": "plain-tool-rows",
+  "version": "0.2.0",
+  "description": "Readable tool rows in the Claude Code transcript: shell commands show their plain-English description, and desktop rows get a color bar per tool type.",
+  "author": { "name": "doramirdor" },
+  "license": "MIT"
+}

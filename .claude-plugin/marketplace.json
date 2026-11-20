@@ -1,0 +1,6 @@
+{
+  "name": "plain-tool-rows",
+  "owner": { "name": "doramirdor" },
+  "description": "Readable tool rows for the Claude Code transcript.",
+  "plugins": [{ "name": "plain-tool-rows", "source": "./" }]
+}
